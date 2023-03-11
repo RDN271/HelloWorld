@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ryotanatori
+ *
+ */
+module HelloWorld {
+}
